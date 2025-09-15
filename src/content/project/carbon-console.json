@@ -1,0 +1,10 @@
+{
+  "title": "Carbon Console",
+  "publications": ["Carbon Removal Canada"],
+  "date": "2025-09-15",
+  "image": "@assets/carbon-console.png",
+  "alt": "A map and dashboard showing the carbon removal industry in Alberta.",
+  "url": "https://console.carbonremoval.ca",
+  "technologies": ["SvelteKit", "Svelte", "D3", "Airtable", "MapLibre"],
+  "roles": ["Design", "Development", "Dataviz", "Mapping", "Project strategy"]
+}
