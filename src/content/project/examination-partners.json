@@ -1,0 +1,10 @@
+{
+  "title": "Partnership Map",
+  "publications": ["The Examination"],
+  "date": "2026-02-17",
+  "image": "@assets/examination-partners.png",
+  "alt": "World map showing a list of international partners.",
+  "url": "https://www.theexamination.org/",
+  "technologies": ["D3", "Next.js", "Storyblok"],
+  "roles": ["Design", "Development"]
+}
